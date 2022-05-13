@@ -1,0 +1,12 @@
+{
+	"DVDOpen": {
+		"address": "8015e21c-8015e4c0:USA",
+		"args": {
+			"r3": "string pointer to the file name (thp/course_select.thp)",
+			"r4": "void* where the data will be written to"
+		},
+		"returns": {
+			"int: r4": "size of the data read"
+		}
+	}
+}
